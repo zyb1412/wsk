@@ -1,0 +1,16 @@
+{
+  "name": "parcel-experiment",
+  "version": "1.0.0",
+  "description": "a npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build parcel/index.html"
+  },
+  "author": "zyb",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.12.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
